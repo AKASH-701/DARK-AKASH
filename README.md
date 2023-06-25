@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Akash Ahmmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-701&label=Profile%20views&color=0e75b6&style=flat" alt="akash-701" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fsakashahmmed" target="blank"><img src="https://img.shields.io/twitter/follow/fsakashahmmed?logo=twitter&style=for-the-badge" alt="fsakashahmmed" /></a> </p>
@@ -15,22 +14,25 @@
 
 - 🤝 I’m looking for help with [🔥WhatsApp](https://wa.me/qr/DIMLO4W3LYZ5H1)
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on []()
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Hi , Android**
 
 - 📫 How to reach me **akashahmmed141@gmail.com**
 
-- 📄 Know about my experiences [](Akashuniquetech)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fsakashahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fsakashahmmed" height="30" width="40" /></a>
-<a href="https://fb.com/ewrakashahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ewrakashahmmed" height="30" width="40" /></a>
+<img align="right" alt="coding" width="400" src="https://tenor.com/bwVF7.gif">
+
+
+  <a href="https://fb.com/ewrakashahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ewrakashahmmed" height="30" width="40" /></a>
 <a href="https://instagram.com/ewrakashahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ewrakashahmmed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akashuniquetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashuniquetech" height="30" width="40" /></a>
 </p>
