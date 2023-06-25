@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Ahmmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-701&label=Profile%20views&color=0e75b6&style=flat" alt="akash-701" /> </p>
 
@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with [🔥WhatsApp](https://wa.me/qr/DIMLO4W3LYZ5H1)
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/ItsMeAkashAhmed](https://www.facebook.com/ItsMeAkashAhmed)
+- 👨‍💻 All of my projects are available at []()
 
-- 📝 I regularly write articles on [https://www.facebook.com/ItsMeAkashAhmed](https://www.facebook.com/ItsMeAkashAhmed)
+- 📝 I regularly write articles on []()
 
 - 💬 Ask me about **Hi , Android**
 
 - 📫 How to reach me **akashahmmed141@gmail.com**
 
-- 📄 Know about my experiences [https://www.facebook.com/ItsMeAkashAhmed](https://www.facebook.com/ItsMeAkashAhmed)
+- 📄 Know about my experiences [](Akashuniquetech)
 
 - ⚡ Fun fact **I am funny 😂**
 
